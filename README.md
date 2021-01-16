@@ -38,6 +38,10 @@ The dataset has 14 attributes:
 - templates:
 	- `Heart Disease Classifier.html`: a web page that contains a form for heart disease testing. 
 	
+
+## Data Scince Life Cycle Article
+This [article] (https://medium.com/analytics-vidhya/the-lifecycle-to-build-a-web-app-for-prediction-from-scratch-bec1632b5f27) explaines the steps to build the heart disease classifier web App. 
+
 	
 
 
